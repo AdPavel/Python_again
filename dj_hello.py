@@ -104,4 +104,4 @@ xtx = reversed(txt)
 print(xtx)
 print('Same new text')
 
-print('This is a super new text')
+print('This is a super new text #2')
